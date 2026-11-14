@@ -1,0 +1,20 @@
+## Interface: 16001
+## Title: Fishing Alert
+## Notes: Visual fishing cues for deaf and hard-of-hearing players: a big bobber marker, screen flashes and one-key fishing.
+## Author: Howl
+## Version: @project-version@
+## Category: Professions
+## IconTexture: Interface\Icons\Trade_Fishing
+## SavedVariables: FishingAlertDB
+## X-License: MIT
+
+Core.lua
+Flash.lua
+Bar.lua
+Icon.lua
+Marker.lua
+Lures.lua
+Picker.lua
+Keys.lua
+Settings.lua
+Debug.lua
