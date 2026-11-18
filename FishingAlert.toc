@@ -8,6 +8,7 @@
 ## SavedVariables: FishingAlertDB
 ## X-License: MIT
 ## X-Wago-ID: 5NRg7E63
+## X-Curse-Project-ID: 1815216
 
 Core.lua
 Flash.lua
